@@ -9,7 +9,13 @@ namespace Csharp {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"First Program - Fundamentos", FirstProgram.Executar},
                 {"Comentarios - Fundamentos" , Comentarios.Executar},
-                {"Variaveis E Constantes - Fundamentos" , VariaveisEConstantes.Executar}
+                {"Variaveis E Constantes - Fundamentos" , VariaveisEConstantes.Executar},
+                {"Inferencia - Fundamentos" , Inferencia.Executar},
+                {"Interpolação - Fundamentos" , Interpolacao.Executar},
+                {"Lendo Dados - Fundamentos " , LendoDados.Executar},
+                {"Formatando Numeros - Fundamentos " , FormatandoNumeros.Executar},
+                {"Conversoes - Fundamentos " , Conversoes.Executar}
+                
             });
 
             central.SelecionarEExecutar();
