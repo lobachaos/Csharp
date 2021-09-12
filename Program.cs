@@ -20,6 +20,7 @@ namespace Csharp {
                 {"Estrutura Switch - Estruturas de Controle " , EstruturaSwitch.Executar},
                 {"Estrutura While - Estruturas de Controle " , EstruturaWhile.Executar},
                 {"Estrutura ForEach - Estruturas de Controle " , EstruturaForEach.Executar},
+                {"Estrutura Break - Estruturas de Controle " , Break.Executar},
                 
             });
 
