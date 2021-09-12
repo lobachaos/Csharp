@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using Csharp.Fundamentos;
+using Csharp.EstruturasDeControle;
+
+
 
 namespace Csharp {
     class Program {
@@ -14,7 +16,10 @@ namespace Csharp {
                 {"Interpolação - Fundamentos" , Interpolacao.Executar},
                 {"Lendo Dados - Fundamentos " , LendoDados.Executar},
                 {"Formatando Numeros - Fundamentos " , FormatandoNumeros.Executar},
-                {"Conversoes - Fundamentos " , Conversoes.Executar}
+                {"Conversoes - Fundamentos " , Conversoes.Executar},
+                {"Estrutura Switch - Estruturas de Controle " , EstruturaSwitch.Executar},
+                {"Estrutura While - Estruturas de Controle " , EstruturaWhile.Executar},
+                {"Estrutura ForEach - Estruturas de Controle " , EstruturaForEach.Executar},
                 
             });
 
