@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Csharp.Fundamentos;
 using Csharp.EstruturasDeControle;
 using Csharp.CodWars;
+using Csharp.ClassesEMetodos;
 
 
 
@@ -22,6 +23,14 @@ namespace Csharp {
                 {"Estrutura While - Estruturas de Controle " , EstruturaWhile.Executar},
                 {"Estrutura ForEach - Estruturas de Controle " , EstruturaForEach.Executar},
                 {"Estrutura Break - Estruturas de Controle " , Break.Executar},
+                {"Desafio Acessar Atributo - Classes e Metodos " , DesafioAcessarAtributo.Executar},
+                {"Params - Classes e Metodos " , Params.Executar},
+                {"Propriedades - Classes e Metodos " , Props.Executar},
+                {"ReadOnly - Classes e Metodos " , ReadOnly.Executar},
+                {"Struct Vs Classe - Classes e Metodos " , StructVsClasse.Executar},
+                {"Parametros Por Referencia- Classes e Metodos " , ParametrosPorReferencia.Executar},
+                {"Parametro Padrão - Classes e Metodos " , ParametroPadrao.Executar},
+
                 
             });
 
