@@ -32,6 +32,7 @@ namespace Csharp
                 {"Parametro Padrão - Classes e Metodos " , ParametroPadrao.Executar},
                 {"Array - Coleções" , Colecoes.Array.Executar},
                 {"List - Coleções" , Colecoes.List.Executar},
+                {"Equals e HashCode - Coleções" , Igualdade.Executar},
 
                 
             });
