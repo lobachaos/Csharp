@@ -4,6 +4,7 @@ using Csharp.Fundamentos;
 using Csharp.EstruturasDeControle;
 using Csharp.ClassesEMetodos;
 using Csharp.Colecoes;
+using Csharp.CodWars;
 
 namespace Csharp
 {
