@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using Csharp.Fundamentos;
 using Csharp.EstruturasDeControle;
-using Csharp.CodWars;
 using Csharp.ClassesEMetodos;
+using Csharp.Colecoes;
 
-
-
-namespace Csharp {
+namespace Csharp
+{
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -30,6 +29,8 @@ namespace Csharp {
                 {"Struct Vs Classe - Classes e Metodos " , StructVsClasse.Executar},
                 {"Parametros Por Referencia- Classes e Metodos " , ParametrosPorReferencia.Executar},
                 {"Parametro Padrão - Classes e Metodos " , ParametroPadrao.Executar},
+                {"Array - Coleções" , Colecoes.Array.Executar},
+                {"List - Coleções" , Colecoes.List.Executar},
 
                 
             });

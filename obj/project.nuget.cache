@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hAVnMaax19XNykSWdUw5tGX/mCSOGfvuNBf01nAbgf0wAFiG8JZcuk/FDoPqICNqwVRW1On0z6VUoMQSwf1FEA==",
+  "dgSpecHash": "/Dc2Yl8t1gOGSZlxkfDPypmFAB7t8RVgIqqOgyfE96I6tHZtjLCQ9wxijMpj9rtSOSOwXw+bGKjzLmmsxVejYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/lobachaos/VisualStudioCode/Csharp/Csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/lobachaos/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
