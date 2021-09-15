@@ -1,2 +1,5 @@
 .vscode/launch.json
 .vscode/tasks.json
+obj/Debug/net5.0/Csharp.assets.cache
+obj/Debug/net5.0/apphost.exe
+obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
