@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hAVnMaax19XNykSWdUw5tGX/mCSOGfvuNBf01nAbgf0wAFiG8JZcuk/FDoPqICNqwVRW1On0z6VUoMQSwf1FEA==",
+  "dgSpecHash": "OonzfWYvfz58ChitMBFtznGHR6ea3cnMbgIWGNQKW7PP+trr4ItEhypY+l7412fwDGKNC58HWMfh1Ja4dFoqnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj",
+  "projectFilePath": "/home/lobachaos/vscode/Csharp/Csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

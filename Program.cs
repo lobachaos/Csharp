@@ -5,6 +5,7 @@ using Csharp.EstruturasDeControle;
 using Csharp.ClassesEMetodos;
 using Csharp.Colecoes;
 using Csharp.CodWars;
+using Csharp.MetodosEFuncoes;
 
 namespace Csharp
 {
@@ -33,6 +34,12 @@ namespace Csharp
                 {"Array - Coleções" , Colecoes.Array.Executar},
                 {"List - Coleções" , Colecoes.List.Executar},
                 {"Equals e HashCode - Coleções" , Igualdade.Executar},
+                {"Expressões Lambda - Metodos e Funções" , ExpressoesLambda.Executar},
+                {"Expressões Lambda  como Delegate- Metodos e Funções" , LambdasDelegate.Executar},
+                {"Usando Delegate - Metodos e Funções" , UsandoDelegate.Executar},
+                {"Delegate como Função Anônima - Metodos e Funções" , DelegateFuncAnonima.Executar},
+                {"Delegate como Parametros - Metodos e Funções" , DelegatesComoParametros.Executar},
+                {"Métodos de Extensão - Metodos e Funções" , MetodosDeExtensao.Executar},
 
                 
             });

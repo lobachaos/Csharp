@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj": {}
+    "/home/lobachaos/vscode/Csharp/Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj": {
+    "/home/lobachaos/vscode/Csharp/Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj",
+        "projectUniqueName": "/home/lobachaos/vscode/Csharp/Csharp.csproj",
         "projectName": "Csharp",
-        "projectPath": "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\Csharp.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\VSCode\\Csharp\\obj\\",
+        "projectPath": "/home/lobachaos/vscode/Csharp/Csharp.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/lobachaos/vscode/Csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
