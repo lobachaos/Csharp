@@ -6,6 +6,7 @@ using Csharp.ClassesEMetodos;
 using Csharp.Colecoes;
 using Csharp.CodWars;
 using Csharp.MetodosEFuncoes;
+using Csharp.Excecoes;
 
 namespace Csharp
 {
@@ -40,6 +41,8 @@ namespace Csharp
                 {"Delegate como Função Anônima - Metodos e Funções" , DelegateFuncAnonima.Executar},
                 {"Delegate como Parametros - Metodos e Funções" , DelegatesComoParametros.Executar},
                 {"Métodos de Extensão - Metodos e Funções" , MetodosDeExtensao.Executar},
+                {"Primeira Exceção - Exceções " , PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções " , ExcecoesPersonalizadas.Executar},
 
                 
             });
